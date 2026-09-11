@@ -1,11 +1,6 @@
-1. PHP là vi?t t?t c?a gì?
-c. PHP: Hypertext Preprocessor
-2. Ð? xu?t dòng van b?n ra màn hình trong PHP, b?n s? d?ng hàm nào?
-b. echo()
-3. Cách d? khai báo m?t bi?n ki?u chu?i trong PHP là gì?
-a. $string = "Hello, World";
-4. Hàm nào du?c s? d?ng d? l?y d? dài c?a m?t chu?i trong PHP?
-b. strlen()
-5. Ð? ki?m tra xem m?t bi?n có ph?i là s? nguyên hay không, b?n s? d?ng hàm nào?
-b. is_int() 
+1. c. PHP: Hypertext Preprocessor
+2. b. echo()
+3. a. $string = "Hello, World";
+4. b. strlen()
+5. b. is_int() 
 
