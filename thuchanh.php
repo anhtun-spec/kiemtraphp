@@ -56,3 +56,6 @@ function inHinhChuNhat($chieuRong, $chieuCao) {
 
 inHinhChuNhat(5, 3);
 ?>
+
+</body>
+</html>
