@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập thực hành PHP</title>
+</head>
+<body>
+    
 <?php
 //BÀI 1
 echo "<b>Bài 1: Viết một chương trình PHP để in ra số chẵn từ 1 đến 10.</b><br>";
